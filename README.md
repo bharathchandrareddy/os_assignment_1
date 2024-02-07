@@ -29,3 +29,8 @@ the following commands are used:
 4. Display a message
 5. Concatenate and display content of a file
 6. Exit
+
+Modules used: python import os
+os module is used to implement the system functions 
+if you go through the code you can observe that all the functions are used this module
+
