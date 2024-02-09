@@ -5,9 +5,10 @@ This following code can be run in any system which has python version 3 or highe
 Steps to run the code:
 1. download the Assignment_1.ipynb file to your local system
 2. Open the file using any of the code editors with python environment
-3. run the code
-4. you can see the prompt to enter the number form the menu
-5. the code runs untill you enter 6 to exit
+3. I've used a hard code for working directory. You can comment that line of code and uncomment 3rd line to start working.
+4. run the code
+5. you can see the prompt to enter the number form the menu
+6. the code runs untill you enter 6 to exit
 
 Code explanation:
 
